@@ -1,8 +1,0 @@
-import streamlit as st
-st.title('Ammara Hajat')
-
-st.write('Hello! Welcome to my portfolio.👋')
-
-st.header('A bit about me:')
-  st.write('I am a second year Mathematics and Artificial Intelligence Bsc student at the University of Leicester.')
-
