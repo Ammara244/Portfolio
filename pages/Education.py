@@ -9,7 +9,7 @@ with st.expander('Modules:'):
 st.write('**A-Levels**')
 st.write('Mathematics - A')
 st.write('Biology - A')
-st.write(Chemistry - A')
+st.write('Chemistry - A')
 
 st.write('**GCSEs**')
 st.write('Mathematics - 9')
