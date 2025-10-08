@@ -1,3 +1,3 @@
 import st.title('My Certificates:')
 
-st.image("certificates/Python (Kaggle) - Ammara.png")
+st.image('certificates/Data_Visualization.png')
