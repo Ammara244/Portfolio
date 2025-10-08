@@ -3,5 +3,4 @@ st.title('My Education')
 
 st.subheader('Current - BSc Mathematics and Artificial Intelligence (2024-2027)')
 st.write('**Current - BSc Mathematics and Artificial Intelligence (2024-2027)**')
-st.write('modules: 
-         Programming Fundementals, Probablity, Algorithms Data Structures and Advanced Programming, Introductory Statistics, Linear Algebra, Calculus and Analysis')
+st.write('modules: Programming Fundementals, Probablity, Algorithms Data Structures and Advanced Programming, Introductory Statistics, Linear Algebra, Calculus and Analysis')
