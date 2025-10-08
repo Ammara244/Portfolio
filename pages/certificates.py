@@ -25,3 +25,8 @@ with open("certificates/Data_and_SQL_CFG.pdf", "rb") as file:
 
 with open("certificates/Javascript (CFG) - Ammara Hajat.pdf", "rb") as file:
     st.download_button("Download Introduction to JavaScript Certificate", file, "Javascript (CFG) - Ammara Hajat.pdf")
+
+st.header('Other Certificates')
+
+with open("certificates/Springpod Barclays Data Analytics - Ammara Hajat.pdf", "rb") as file:
+    st.download_button("Download Springpod Data Analytics with Barclays Certificate", file, "Springpod Barclays Data Analytics - Ammara Hajat.pdf")
