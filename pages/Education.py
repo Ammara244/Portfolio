@@ -13,7 +13,7 @@ st.write('Chemistry - A')
 
 st.write('**GCSEs**')
 st.write('Mathematics - 9')
-st.write(English Language - 7')
+st.write('English Language - 7')
 
 with st.expander('Other GCSEs'):
   st.write('.')
