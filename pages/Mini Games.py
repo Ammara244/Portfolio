@@ -1,4 +1,5 @@
 import streamlit as st
+import random
 
 st.subheader('Here are some mini games that I have made for you to play around with:')
 
