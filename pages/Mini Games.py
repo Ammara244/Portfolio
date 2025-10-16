@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.subheader('Here are some mini games that I've made for you to play around with:')
+st.subheader('Here are some mini games that I have made for you to play around with:')
 
 with st.expander('Number Guessing Game:'):
   st.write(name, 'try to guess what my number is between 1 and 100')
