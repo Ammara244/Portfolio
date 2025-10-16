@@ -3,7 +3,7 @@ import streamlit as st
 st.subheader('Here are some mini games that I have made for you to play around with:')
 
 with st.expander('Number Guessing Game:'):
-  st.write(name, 'try to guess what my number is between 1 and 100')
+  st.write('try to guess what my number is between 1 and 100')
 
   # stores a number that wont reset every time
   #creates it for the first time then it doesnt change after
